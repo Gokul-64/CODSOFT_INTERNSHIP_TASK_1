@@ -1,42 +1,43 @@
-Codsoft Internship Projects 🎯
+# 🎯 Codsoft Internship Projects  
 
-This repository contains the projects I completed during my Java Developer Internship at Codsoft. These projects focus on strengthening Java fundamentals, Object-Oriented Programming (OOP), data structures, and problem-solving skills.
+This repository contains the projects I completed during my **Java Developer Internship at Codsoft**.  
+These projects helped me strengthen my knowledge of **Java fundamentals, Object-Oriented Programming (OOP), data structures, and problem-solving skills**.  
 
-📌 Projects
-1. Number Guessing Game
+---
 
-A console-based game where the computer generates a random number and the user has to guess it within a limited number of attempts.
+## 📌 Projects  
 
-Implemented using loops, conditionals, and random number generation.
+### 🔢 1. Number Guessing Game  
+A simple console-based game where the computer generates a random number and the user has to guess it within a limited number of attempts.  
 
-Provides hints for higher/lower guesses.
+✔️ Implemented using **loops, conditionals, and random number generation**  
+✔️ Provides hints for higher/lower guesses  
+✔️ Enhances logical thinking and problem-solving  
 
-Enhances logical thinking and problem-solving.
+---
 
-2. Student Management System
+### 🧑‍🎓 2. Student Management System  
+A CRUD-based application to manage student details efficiently.  
 
-A CRUD-based application to manage student details.
+✔️ Built using **OOP concepts** like classes, objects, and encapsulation  
+✔️ Used **ArrayList** for storing and managing records  
+✔️ Features: Add, Update, View, and Delete student details  
+✔️ Simulates **real-world data management applications**  
 
-Built using OOP concepts like classes, objects, and encapsulation.
+---
 
-Used ArrayList for storing and managing records.
+### 💳 3. ATM Interface  
+A console-based simulation of an ATM machine.  
 
-Features: add, update, view, and delete student details.
+✔️ Functionalities include **Withdraw, Deposit, Balance Inquiry, and PIN Validation**  
+✔️ Implemented **exception handling** for secure transactions  
+✔️ Designed with **modular programming** using methods for each operation  
 
-Simulates real-world data management applications.
+---
 
-3. ATM Interface
+## 🛠️ Tech Stack  
 
-A console-based simulation of an ATM system.
+- **Language:** Java ☕  
+- **Concepts Used:** OOP, Collections, Exception Handling, Loops & Conditionals  
 
-Functionalities include withdraw, deposit, balance inquiry, and PIN validation.
-
-Implemented exception handling for secure transactions.
-
-Designed with modular programming using methods for each operation.
-
-🛠️ Tech Stack
-
-Language: Java
-
-Concepts Used: OOP, Collections, Exception Handling, Loops & Conditionals
+---
